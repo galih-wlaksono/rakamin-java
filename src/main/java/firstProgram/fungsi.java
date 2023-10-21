@@ -13,8 +13,8 @@ public class fungsi {
         Namaku.Indah("Sarbini");
         Namaku.Indah("Aung Aung");
 
-        result.printNama("Beda indung bapa");
-        result.printNama("Beda indung bapa");
+        result.printNama("Beda indung bapa sabondoyot");
+        result.printNama("Beda semua");
 
         tambah(x,z);
         tambah(x,y);
