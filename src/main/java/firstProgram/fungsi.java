@@ -14,6 +14,7 @@ public class fungsi {
         Namaku.Indah("Aung Aung");
 
         result.printNama("Beda indung bapa");
+        result.printNama("Beda indung bapa");
 
         tambah(x,z);
         tambah(x,y);
